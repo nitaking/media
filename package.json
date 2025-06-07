@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "commit": "bun commit.script.ts"
+  },
+  "dependencies": {
+    "simple-git": "^3.28.0"
+  }
+}
